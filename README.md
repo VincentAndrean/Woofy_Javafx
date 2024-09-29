@@ -1,1 +1,4 @@
 # Woofy_Javafx
+
+Project ini dibuat dengan menggunakan javafx
+Anjing merupakan makhluk hidup yang sangat aktif, sehingga mereka suka bermain di luar ruangan dan berinteraksi dengan lingkungan sekitarnya. Namun, pada kesibukaan pemilik anjing zaman sekarang, tidak semua memiliki waktu luang yang cukup untuk memenuhi kebutuhan bermain dan perhatian yang diperlukan oleh anjing mereka. Terutama bagi mereka yang sedang dalam mengurus kesibukan sehari-hari, merawat seekor anjing dapat menjadi suatu tantangan, karena seringkali jadwal yang padat dapat membuat pemilik lupa memberikan makanan bahkan menjaga kesehatan anjing mereka. Dalam situasi seperti ini, dibutuhkan solusi yang memungkinkan pemilik anjing untuk tetap memenuhi kebutuhan hewan peliharaan mereka tanpa harus mengorbankan waktu dan fleksibilitas mereka.
